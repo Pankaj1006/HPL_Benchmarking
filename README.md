@@ -1,1 +1,1 @@
-# HPL_Benchmarking
+# HPL(High Performance Linpack) Benchmarking
